@@ -190,6 +190,7 @@ h1{
     align-items: center;
     position: relative;
     width: 1200px;
+    padding-top: 64px;
 }
 .img2-1 p{
     width: 33%;
@@ -209,7 +210,6 @@ h1{
     font-weight: 500;
     line-height: 75px;
     margin-bottom: 24px;
-    padding-top: 64px;
 }
 .img2content{
     font-size: 20px;
